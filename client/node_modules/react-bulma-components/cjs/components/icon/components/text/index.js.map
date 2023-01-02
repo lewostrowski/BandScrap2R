@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../src/components/icon/components/text/index.js"],"names":["Text"],"mappings":";;;;;;;AAAA;;;;eAEeA,gB","sourcesContent":["import Text from './text';\n\nexport default Text;\n"],"file":"index.js"}
